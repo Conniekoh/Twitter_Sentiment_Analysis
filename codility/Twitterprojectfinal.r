@@ -3,7 +3,7 @@
 #1. Gather Tweets
 #Tweets were collected at 
 
-#Tweets were collected at 10:06 am PST on June 26, 2021 on three celebrities
+#Tweets were collected at 10:06 am PST on June 26, 2021 on four celebrities
 library(rtweet)
 musk = search_tweets(q = 'elonmusk',n = 200, include_rts = F)
 cook = search_tweets(q = 'tim_cook', n=200, include_rts=F)
