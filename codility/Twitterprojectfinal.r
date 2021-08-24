@@ -1,7 +1,6 @@
 #Tweets
 
 #1. Gather Tweets
-#Tweets were collected at 
 
 #Tweets were collected at 10:06 am PST on June 26, 2021 on four celebrities
 library(rtweet)
