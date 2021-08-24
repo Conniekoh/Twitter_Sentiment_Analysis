@@ -3,7 +3,7 @@
 
 ___
 # Description
-Evaluate the accuracy of misclassification rates between twitter person and classified text using eight ML models. Applied Bing, Afinn, and NRC lexicons to check the sentiment scores of all tweets
+Evaluate the accuracy of misclassification rates between twitter person and classified text using eight ML models. Applied Bing, Afinn, and NRC lexicons to check the sentiment scores of all tweets.
 ___
 # Steps
 1. Data exploration
